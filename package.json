@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Kryptyk Physh <pryptykphysh@kryptykphysh.xyz>",
+  "author": "Kryptyk Physh <kryptykphysh@kryptykphysh.xyz>",
   "scripts": {
     "build": "babel server.js --out-dir build",
     "dev-start": "babel-watch server.js"
